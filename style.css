@@ -1,0 +1,99 @@
+label{ display: inline-block; width: 1em; }
+body {
+    background-image: url("s.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.contained 
+{ width:200px; 
+margin:2 auto; 
+margin-top:10px; 
+min-height:10px; 
+padding:5px; 
+-moz-box-shadow: 10px 10px 12px #F07B7B;
+-webkit-box-shadow: 10px 10px 12px #F07B7B;
+box-shadow:10px 10px 12px #F07B7B;
+}
+
+.contain 
+{ width:500px; 
+margin:0 auto; 
+border:10px green dashed; 
+margin-top:20px; 
+min-height:300px; 
+padding:5px; 
+-moz-box-shadow: 6px 10px 12px #888;
+ -webkit-box-shadow: 6px 6px 12px #888;
+box-shadow:6px 10px 12px #888;
+}
+.right 
+{
+    position: absolute;
+    right: 0px;
+    width: 500px;
+    background-color: #b0e0e6;
+}
+
+a{
+background:#D3FCCD;
+width: 400px;
+height: 300px;
+-moz-box-shadow: 6px 10px 12px #888;
+ -webkit-box-shadow: 6px 6px 12px #888;
+box-shadow:6px 10px 12px #888;
+}
+.img{
+background:#D3FCCD;
+width: 100px;
+height: 100px;
+-moz-box-shadow: 6px 10px 12px #888;
+ -webkit-box-shadow: 6px 6px 12px #888;
+box-shadow:6px 10px 12px #888;
+}
+.img1{
+background:#D3FCCD;
+align:center;
+width: 800px;
+height: 200px;
+-moz-box-shadow: 6px 10px 12px #888;
+ -webkit-box-shadow: 6px 6px 12px #888;
+box-shadow:6px 10px 12px #888;
+}
+input { font-size:18px; color:white; background:green; padding:10px; width:200px; margin-top:25px;}
+
+.labelname { font-size:20px; font-weight:bold; font-family:Copperplate Gothic Bold,Cambria (Headings),Bradley Hand ITC; color:#33C; padding:10px; -moz-box-shadow: 6px 10px 12px #888;  -webkit-box-shadow: 6px 6px 12px #888; box-shadow:6px 10px 12px #888; }
+
+.labelname1 { font-size:25px; font-weight:bold; font-family:Cambria (Headings),Bradley Hand ITC; color:GREEN; padding:10px; -moz-box-shadow: 6px 10px 12px #888;  -webkit-box-shadow: 6px 6px 12px #888; box-shadow:6px 10px 12px #888; alighn="right" }
+
+#submit { width:220px; height:40px;font-weight:bold; padding:2px; background-color:brown; align:right; font-size:22px;}
+
+h1 { color:white; font-size:22px; background-color:#CCC; padding:10px; }
+
+h2 { color:white; font-size:22px; background-color:pink; padding:10px; }
+h3 { color:#654; font-size:15px;}
+h4 { color:#333; font-size:18px;background-color:pink;}
+
+.contain 
+{ width:500px; 
+margin:0 auto; 
+border:0px green dashed; 
+margin-top:15px; 
+min-height:300px; 
+padding:5px; 
+-moz-box-shadow: 6px 10px 12px #1CF421;
+ -webkit-box-shadow: 6px 6px 12px #1CF421;
+box-shadow:6px 10px 12px #1CF421;
+}
+
+input { font-size:18px; color:white; background:green; padding:10px; width:200px; margin-top:25px;}
+.labelname { font-size:20px; font-weight:bold; font-family:Copperplate Gothic Bold,Cambria (Headings),Bradley Hand ITC; color:#33C; padding:10px; -moz-box-shadow: 6px 10px 12px #888;  -webkit-box-shadow: 6px 6px 12px #888; box-shadow:6px 10px 12px #888; }
+.labelname1 { font-size:22px; font-weight:bold; font-family:Cambria (Headings),Bradley Hand ITC; color:GREEN; padding:10px; -moz-box-shadow: 6px 10px 12px #888;  -webkit-box-shadow: 6px 6px 12px #888; box-shadow:6px 10px 12px #888; }
+#submit { width:220px; height:40px;font-weight:bold; padding:2px; background-color:brown; align:center; font-size:22px;}
+label{ display: inline-block;width: 8em;}
+
+h1 { color:white; font-size:22px; background-color:#CCC; padding:10px; }
+h2 { color:white; font-size:22px; background-color:pink; padding:10px; }
+h3 { color:#654; font-size:15px;}
+h4 { color:#333; font-size:18px;}
+
+
